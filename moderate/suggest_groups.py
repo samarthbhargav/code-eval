@@ -2,7 +2,7 @@
 URL: https://www.codeeval.com/open_challenges/165/
 
 Date Started: 21-12-2014
-Date Finished:
+Date Finished: 21-12-2014
     
 Author: Samarth Bhargav
 """
